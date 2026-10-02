@@ -1,1 +1,3 @@
-# 1.1beta-sandbox-parsi-game
+# ملون سندباکس ایرانی
+برای شروع بازی آنلاین گوشیتون رو بچرخونید
+اینم لینک بازی : https://melon-box-play.base44.app
